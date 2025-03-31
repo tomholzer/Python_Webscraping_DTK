@@ -1,2 +1,2 @@
-# Python_Webscraping_DTK
+# PythonWebscrapingDTK
 Python Webscraping https://portal.desettisickroku.cz/
